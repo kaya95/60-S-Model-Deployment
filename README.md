@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 135744" src="https://github.com/user-attachments/assets/f541ccba-bc10-4d02-b432-0bd091c6bdb8" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 142750" src="https://github.com/user-attachments/assets/e6858345-2d3f-42f9-b248-dfd47c71e066" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-18 142924" src="https://github.com/user-attachments/assets/cf121e85-03a6-42a0-b0ea-54b13df023f1" />
 GPU Cost Guardian – 60-Second Model Deployment Demo
 
 A lightweight, production-ready example of an ML deployment using Docker + FastAPI.
@@ -129,5 +132,6 @@ Add GPU/CPU resource metrics
 MIT License.
 
 👤 Author
+
 
 Built by kaya — demonstrating real, hands-on MLOps deployment skills.
